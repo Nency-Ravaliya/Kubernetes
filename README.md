@@ -1,10 +1,8 @@
 # Kubernetes
 
+## Must read: https://kubernetes.io/docs/concepts/architecture/
+
 ## 📘 **Kubernetes Concepts Roadmap**
-
-(Organized from foundational to advanced with real-world use cases)
-
----
 
 ### 🔹 **1. Kubernetes Basics**
 
